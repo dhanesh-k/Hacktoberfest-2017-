@@ -2,6 +2,8 @@
 // JavaScript Doubly Linked List
 // https://github.com/hacktoberfest17/programming/issues/720
 
+// .......... I was too late ............ :(
+
 
 function Node(data){
 	this.data = data;
