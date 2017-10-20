@@ -3,6 +3,7 @@
 // https://github.com/hacktoberfest17/programming/issues/720
 
 // .......... I was too late ............ :(
+// sad, but I learned a lot
 
 
 function Node(data){
